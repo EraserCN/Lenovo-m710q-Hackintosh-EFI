@@ -2,6 +2,8 @@
  Hackintosh EFI for Lenovo Thinkcenter m710q.
 ![Model](https://fardincompteq.com/wp-content/uploads/2018/03/M700-Tiny-600x600.png)
 
+How it works:
+![working](/Pics/1.JPG)
 ## Hardware
 Components | Recommended
 ------------ | -------------
