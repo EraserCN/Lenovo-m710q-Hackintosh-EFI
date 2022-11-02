@@ -15,7 +15,7 @@ OpenCore | v0.7.4
 
 ## Important! Important! Important!
 
-**YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
+**YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.(I don't have network card so no need for me.))**
 ![SN/UUID/MLB](https://github.com/revunix/GIGABYTE-X399-Designare-EX/blob/main/images/MLBUUIDSN.png?raw=true)
 
 ## Special Thanks To:
