@@ -21,9 +21,16 @@ OpenCore | v0.7.4
 ## Special Thanks To:
 
 ![revunix](https://github.com/revunix/ThinkCentre-M710Q) for inspiration
+
 ![Apple](https://apple.com) for everything
-[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest) | 0.6.7 |
-[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.2 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.9 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.2 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.9 |
+
+![OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest)
+
+![Lilu](https://github.com/acidanthera/Lilu/releases/latest) 
+
+![AppleALC](https://github.com/acidanthera/AppleALC/releases/latest)
+
+![VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) 
+
+![WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) 
+
