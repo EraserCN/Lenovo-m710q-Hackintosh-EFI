@@ -12,3 +12,18 @@ Components | Recommended
 RAM | 8GB  DDR4 2400 MHz
 macOS | 11.7
 OpenCore | v0.7.4
+
+## Important! Important! Important!
+
+**YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
+![SN/UUID/MLB](https://github.com/revunix/GIGABYTE-X399-Designare-EX/blob/main/images/MLBUUIDSN.png?raw=true)
+
+## Special Thanks To:
+
+![revunix](https://github.com/revunix/ThinkCentre-M710Q) for inspiration
+![Apple](https://apple.com) for everything
+[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest) | 0.6.7 |
+[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.2 | 
+[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.9 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.2 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.9 |
