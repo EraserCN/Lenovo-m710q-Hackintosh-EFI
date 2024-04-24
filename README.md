@@ -12,7 +12,7 @@ Components | Recommended
 **WiFi** | Not Installed
 **Graphics Card** | Intel HD Graphics 630 1536MB
 RAM | 8GB  DDR4 2400 MHz
-macOS | 11.7
+macOS | 11.0-13.6.6
 OpenCore | v0.7.4
 
 ## Important! Important! Important!
